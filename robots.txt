@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://foiniebae.yonsm.ga/sitemap.xml
